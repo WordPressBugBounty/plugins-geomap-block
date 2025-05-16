@@ -2,7 +2,7 @@
 Contributors: noruzzaman, sanaf
 Tags: map block, google maps, block, map, gutenberg
 Requires at least: 5.0
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: 1.0.2
 Requires PHP: 7.0
 License: GPLv2 or later
@@ -23,6 +23,12 @@ Key Features:
 * Responsive Design: Maps automatically adapt to different screen sizes for optimal viewing on all devices.
 
 Whether you're showcasing a single location or providing a general area view, Geomap Block offers a hassle-free solution for adding maps to your WordPress site.
+
+== Support ==
+
+If you encounter any issues or have questions about the plugin, please visit our support forum at **[Submit Ticket](https://wordpress.org/support/plugin/geomap-block/)**. We are here to help you with any concerns you may have.
+
+If you have any questions, please email us at **[noruzzaman19@gmail.com](mailto:noruzzaman19@gmail.com)**
 
 == Installation ==
 
